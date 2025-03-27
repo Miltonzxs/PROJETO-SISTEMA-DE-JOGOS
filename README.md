@@ -9,8 +9,12 @@ Projeto: O objetivo principal do projeto é fazer um sistema que hospede 3 jogos
 # PRIMEIRO JOGO: PERGUNTAS E RESPOSTAS.
 -No primeiro jogo, nós usamos *IF(SE)* em todas as perguntas e usamos a função *Sub-programa* para fazer os loops, quando alguém errar ou terminar o primeiro jogo acertando tudo, ela vai ser jogada em um outro sub-programa que vai ter as opções de voltar ao menu ou -refazer o primeiro jogo.
 # SEGUNDO JOGO: JOGO DA COBRA
+
 -Nesse segundo jogo, fizemos um sistema para os jogadores não repetirem os nomes que o jogo vai dar. 
+
 -Usamos novamente o *IF* e os *Sub-programas* mas primeiro a gente randomizou as caixas e no *IF* e caso caia na cobra ou no botão, vai abrir um *Sub-programa* que vai perguntar se você quer sair ou repetir o segundo jogo.
+
+
 -Caso você e seu amigo não acharem a cobra ou o botão, vocês vão ser jogados em outro *Sub-programa* que vai ser um "novo nivel: INFINITO" que vai ter dar mais 3 caixas, caso vocês dois conseguirem não achar mesmo assim, o nivel vai se repetir até vocês acharem.
 
 # DESCRIÇÕES E OBJETIVOS DOS JOGOS:
