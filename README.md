@@ -1,5 +1,6 @@
 # PROJETO-SISTEMA-DE-JOGOS
 Projeto: O objetivo principal do projeto é fazer um sistema que hospede 3 jogos, proporcionando aos usuários a possibilidade de jogar.
+
 *Integrantes: José Milton e Ronald Bruno.*
 
 # EXPLICAÇÕES DE LOOPS DO PROJETO:
